@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width , initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>  
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>  
+
+    </head>
+    <body>
+        <div class="container">
+            <h3> Basic Collapse</h3>
+            <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">Click Here</button>
+            <div id="demo" class="collapse">
+                Hello my name is suzy
+
+            </div>
+        </div>    
+    
+        <div class="container m-5">
+            <h2>second collapse for practice</h2>
+            <button type="button" class="btn btn-warning" data-toggle="collapse" data-target="#memo" >Submit</button>
+            <div class="collapse" class="text-danger" id="memo" >
+                You cant submit now :
+                Time for submission will notify you soon
+            </div>
+        </div>
+
+        <div class="container">
+            <h2>Pannel collapse</h2>
+            <div class="panel-group">
+                <div class="panel panel-default">
+                    <div class="pannel-heading">
+                        <h4 class="pannel-title ">Pannel Title</h4>
+
+                        <a data-toggle="collapse" href="#collapse1">Couses</a>  
+                        <div id="collapse1" class="panel-collapse collapse">  
+                        <div class="panel-body">DotNet</div>  
+                        <div class="panel-footer">JAVA</div>  
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <h3>New pannel for collaps</h3>
+            <div class="pannel-group">
+                <div class="pannel pannel-default">
+                    <div class="pannel-heading">
+                        <h3 class="pannel-title"> Pannel with new themes</h3>
+                        <a data-toggle ="collapse" href="#colla">Colors of Pannel</a>
+                        <div id="colla" class="panel-collapse collapse">
+                            <div class="pannel-body">Subjective</div>
+                            <div class="pannel-footer">Objective</div>  
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        
+    </body>
+
+</html>
