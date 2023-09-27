@@ -1,0 +1,20 @@
+<html>
+    <script language="javascript">
+        function square()
+        {
+            var num;
+            num= document.f1.t1.value;
+            var sq=parseInt(num)*parseInt(num);
+            alert("square = " + sq)
+        }
+
+
+    </script>
+    <body>
+        <form name="f1">
+            enter number: <input type="text" name="t1" /><br><br>
+            <input type="button" value="ok" onclick="square();">
+        </form>
+
+    </body>
+</html>

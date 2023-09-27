@@ -1,0 +1,47 @@
+<html>
+    <script language="javascript">
+        function Grade()
+        {
+        
+            var mark1=parseInt(document.getElementById("m1").value);
+            var mark2=parseInt(document.getElementById("m2").value);
+            var mark3=parseInt(document.getElementById("m3").value);
+        
+            var sum= mark1+mark2+mark3;
+            var per=sum/300*100;
+            if(per>=90)
+            {
+                document.getElementById("result").innerHTML=" Grade A || Total Marks are: " +sum +" & "+ per+"%";
+            }
+            else if (per>=70)
+            {
+                document.getElementById("result").innerHTML="Grade B || Total Marks are: " +sum +" & "+ per+"%";
+            }
+            else if (sum>=50)
+            {
+                document.getElementById("result").innerHTML="Grade C || Total Marks are: " +sum +" & "+ per+"%";
+            }
+            else if (sum>=35)
+            {
+                document.getElementById("result").innerHTML="Grade D || Total Marks are: " +sum +" & "+ per+"%";
+            }
+            else
+            {
+                document.getElementById("result").innerHTML="Fail || Total Marks are: " +sum +" & "+ per+"%";
+            }
+            
+            // document.getElementById("result").innerHTML="Total Marks are: " +sum +" & "+ per+"%";
+        }
+        </script>
+
+    <body>
+        <form name="c1">
+            Mark in Maths: <input type=text id="m1"/><br><br>
+            Mark in Science: <input type=text id="m2"/><br><br>
+            Mark in Geography: <input type=text id="m3"/><br><br>
+            <button type=button onclick="Grade();" > Grade</button> <br><br>
+            <div id="result">Result</div>
+        </form>
+
+    </body>
+</html>

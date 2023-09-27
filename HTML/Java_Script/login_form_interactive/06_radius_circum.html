@@ -1,0 +1,29 @@
+<html>
+	<script language="javascript">
+	function Circum()
+	{
+	var num1=document.getElementById("t1").value;
+	var circum=2*3.14*parseFloat(num1);
+	document.getElementById("circum").innerHTML="circumference = " + circum;
+}
+function area()
+{
+    var num1=document.getElementById("t1").value;
+	var area=3.14*parseFloat(num1)*parseFloat(num1);
+	document.getElementById("circum").innerHTML="Area = " + area;
+}
+	</script>
+	<form name="f1">
+		enter number : <input type=text id="t1" name="t1" /><br><br>
+        
+        <br><br>
+		<input type=button value="Circum" onclick="Circum();" />
+        <input type=button value="Area" onclick="area();"/>
+		<br><br>
+		<span id="circum" >--- </span>
+        <span id="area">---</span>
+	</form>
+
+</html>
+
+
