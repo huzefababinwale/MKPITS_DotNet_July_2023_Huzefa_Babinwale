@@ -94,38 +94,36 @@ MKPITS SERVICES NAGPUR
 <script language="javascript">
 function display()
 {
-
- var fname=document.getElementById("firstname").value;
- var lname=document.getElementById("lastname").value;
+	var fname=document.getElementById("firstname").value;
+ 	var lname=document.getElementById("lastname").value;
  
-  document.getElementById("fn").innerHTML=fname;
- document.getElementById("ln").innerHTML=lname;
+ 	document.getElementById("fn").innerHTML=fname;
+ 	document.getElementById("ln").innerHTML=lname;
  
- //for radio button
- var ele=document.getElementsByName("gender");
- //alert("length " + ele.length);
-  for (i = 0; i < ele.length; i++) 
-  {
+ 	//for radio button
+ 	var ele=document.getElementsByName("gender");
+ 	//alert("length " + ele.length);
+ 	for (i = 0; i < ele.length; i++) 
+  	{
                 if (ele[i].checked)
                     document.getElementById("gen").innerHTML =  ele[i].value;
-            }
-//for checkbox
-var c1=document.getElementById("course1").checked;
-var co="";
-if(c1 == true)
-{
-co = " Dotnet" ;
-}
-var c2=document.getElementById("course2").checked;
+    }
+	//for checkbox
+	var c1=document.getElementById("course1").checked;
+	var co="";
+	if(c1 == true)
+	{
+		co = " Dotnet" ;
+	}
+	var c2=document.getElementById("course2").checked;
 
-if(c2 == true)
-{
-co += " Java" ;
-}
+	if(c2 == true)
+	{
+		co += " Java" ;
+	}
 
-document.getElementById("cou").innerHTML=co;
- 
-}
-</script>
+	document.getElementById("cou").innerHTML=co;
+	}
+	</script>
 
 </html>

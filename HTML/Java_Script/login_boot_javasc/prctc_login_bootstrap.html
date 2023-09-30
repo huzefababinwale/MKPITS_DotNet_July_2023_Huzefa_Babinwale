@@ -1,0 +1,52 @@
+<html>
+    <script language="javascript">
+        function check()
+        {
+            var un=document.getElementById("u2").value;
+            var pass=document.getElementById("p2").value;
+            if(un=="" && pass=="")
+            {
+                document.getElementById("u1").innerHTML="please Enter User Name ";
+                document.getElementById("p1").innerHTML="please Enter Password";
+            }
+            else if(un=="")
+            {
+                document.getElementById("u1").innerHTML="please Enter User Name ";  
+                document.getElementById("p1").innerHTML=""; 
+            }
+            else if (pass=="")
+            {
+                document.getElementById("u1").innerHTML="";
+                document.getElementById("p1").innerHTML="please Enter Password ";
+            }
+            else{
+                document.getElementById("u1").innerHTML="";
+                document.getElementById("p1").innerHTML="";
+
+                if (un=="admin" && pass=="admin")
+                {
+                    document.getElementById("result").innerHTML="Login Successfull";
+                }
+                else
+                {
+                    document.getElementById("result").innerHTML="Invalid Credentials! ";
+                }
+            }
+        }
+
+    </script>
+    <body>
+        <div style="background-color:burlywood; margin: 15px; padding: 10%;">
+
+            <form name="f1">
+                enter login Details: <br><br>
+                User Name: <input type=text id="u2" > <span id="u1" style="color: red;"> *</span> <br><br>
+                Password : <input type="password" id="p2">  <span id="p1" style="color: red;"> *</span> <br><br>
+                <button type="button" id="b1" onclick="check();">Log in here</button>
+                <br><br><br>
+                <div id="result">---</div>
+                
+            </form>
+        </div>
+    </body>
+</html>
