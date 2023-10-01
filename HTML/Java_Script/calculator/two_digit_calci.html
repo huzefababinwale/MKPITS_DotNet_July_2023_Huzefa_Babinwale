@@ -54,10 +54,9 @@ var op;
 	function one()
 	{
 	
-	if(op == "")
+	if(document.f1.t1.value !="+" && document.f1.t1.value!="-")
 	{
-	
-	document.f1.t1.value=document.f1.t1.value + "1";
+        document.f1.t1.value=document.f1.t1.value + "1";
 	}
 	else
 	{
@@ -91,15 +90,15 @@ var op;
 	}
 	function equal()
 	{
-	cnum=parseInt(document.f1.t1.value);
-	if(op== "+")
-	{
-	document.getElementById("t1").value=pnum+cnum;
-	}
-	else if(op== "-")
-	{
-	document.getElementById("t1").value=pnum-cnum;
-	}
+	    cnum=parseInt(document.f1.t1.value);
+	    if(op== "+")
+	    {
+	        document.getElementById("t1").value=pnum+cnum;
+	    }
+	    else if(op== "-")
+	    {
+	        document.getElementById("t1").value=pnum-cnum;
+	    }
 	
 	}
 </script>
