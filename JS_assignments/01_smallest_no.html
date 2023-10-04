@@ -1,0 +1,34 @@
+<html>
+
+    <script language="javascript">
+        function check()
+    {
+        var num1=parseInt(document.getElementById("t1").value);
+        var num2=parseInt(document.getElementById("t2").value);
+    if(num1>num2)
+    {
+        document.getElementById("res").innerHTML="Smallest no. is " +num2;
+    }
+    else if(num2>num1)
+    {
+        document.getElementById("res").innerHTML="Smallest no. is " +num1;
+    }
+    else
+    {
+        document.getElementById("res").innerHTML="Both are Equal";
+    }
+
+}
+</script>
+<body>
+    
+    <form name="f1">
+        enter two numbers : <br><br>
+        number 1 : <input type=text id="t1" /> <br><br>
+        number 2 : <input type=text id="t2" /> <br><br>
+        <button type=button onclick="check();"> ok </button>
+        <div id="res" >--</div>
+        
+        </form>
+</body>
+</html>

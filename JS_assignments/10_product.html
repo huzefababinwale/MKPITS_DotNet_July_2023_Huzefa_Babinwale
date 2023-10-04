@@ -1,0 +1,42 @@
+<html>
+    <script language="javascript">
+        function Cal()
+        {
+        
+            var ename=document.getElementById("m1").value;
+            var rate=parseInt(document.getElementById("m2").value);
+            var qty=parseInt(document.getElementById("m3").value);
+            var total=rate*qty;
+            
+            
+            document.getElementById("name").innerHTML= ename;
+            document.getElementById("rate").innerHTML=" Total of rs."+total; 
+                
+            
+        }
+        </script>
+
+    <body>
+        <form name="c1">
+            Product name : <input type=text id="m1"/><br><br>
+            Product Rate : <input type=text id="m2"/><br><br>
+            Product Qty : <input type=text id="m3"/><br><br>
+            
+            
+            <button type=button onclick="Cal();" > Calculate</button> <br><br>
+            <div >Product Name :
+                <span id="name">
+                    --
+                </span>
+            </div>
+            <div >Total Cost :
+                <span id="rate">
+                    --
+                </span>
+            </div>
+            
+
+        </form>
+
+    </body>
+</html>

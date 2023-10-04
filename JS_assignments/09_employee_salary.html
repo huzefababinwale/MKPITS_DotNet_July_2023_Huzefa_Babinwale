@@ -1,0 +1,41 @@
+<html>
+    <script language="javascript">
+        function Emp()
+        {
+        
+            var ename=document.getElementById("m1").value;
+            var basic=parseInt(document.getElementById("m2").value);
+            var hra=(23/basic)*100;
+            var da=(43/basic)*100;
+            var total=hra+da+basic;
+            
+            
+            document.getElementById("name").innerHTML= ename;
+            document.getElementById("sal").innerHTML=" Total of rs."+total; 
+                
+            
+        }
+        </script>
+
+    <body>
+        <form name="c1">
+            Employee name : <input type=text id="m1"/><br><br>
+            Baisc Salary : <input type=text id="m2"/><br><br>
+            
+            
+            <button type=button onclick="Emp();" > Employee Salary</button> <br><br>
+            <div >Employee Name :
+                <span id="name">
+                    --
+                </span>
+            </div>
+            <div >Employee Total Salary :
+                <span id="sal">
+                    --
+                </span>
+            </div>
+
+        </form>
+
+    </body>
+</html>

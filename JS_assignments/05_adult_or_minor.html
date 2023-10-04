@@ -1,0 +1,33 @@
+<html>
+
+    <script language="javascript">
+    function check()
+    {
+        var num1=parseInt(document.getElementById("t1").value);
+        alert(num1);
+        if(num1<18)
+        {
+            document.getElementById("res").innerHTML="You are Minor " +num1;
+        }
+        else if(num1>=18 )
+        {
+            document.getElementById("res").innerHTML="You are adult " +num1;
+        }
+        else if (num1>=60)
+        {
+            document.getElementById("res").innerHTML="You are Old " +num1;   
+        }
+
+    }
+</script>
+<body>
+    
+    <form name="f1">
+        enter Age numbers : <br><br>
+        Age : <input type=text id="t1" /> <br><br>
+        <button type=button onclick="check();"> ok </button>
+        <div id="res" >--</div>
+        
+        </form>
+</body>
+</html>

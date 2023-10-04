@@ -1,0 +1,96 @@
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.3/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+
+<body>
+    <div class="jumbotron text-center">
+        <b style="font-size: 20px;">Score Form:</b>
+    </div>
+    <div class="container">
+        <form>
+        <div>
+            <p>1.What is the capital of India?</p>
+            <input type="radio" name="capital" value="delhi">Delhi
+            <input type="radio" name="capital" value="mumbai">Mumbai
+            <br><br>
+            <p>2.What is the capital of Maharastra?</p>
+            <input type="radio" name="capital2" value="nagpur">Nagpur
+            <input type="radio" name="capital2" value="mumbai">Mumbai
+            <br><br>
+            <p>2.What is the capital of Mp?</p>
+            <input type="radio" name="capital3" value="bhopal">Bhopal
+            <input type="radio" name="capital3" value="nagpur">Nagpur
+        </div>
+        <br><br>
+        
+            <button class="btn btn-primary" type="button" onclick="check();">Submit</button>
+			
+			<div id="res" >result : </div>
+    
+        </form>
+</div>
+</body>
+	<script language="javascript">
+	function check()
+	{
+	var total=0;
+	var res1;
+	var ans;
+	//for question 1
+		 ans=document.getElementsByName("capital"); //2
+		for(i=0;i<ans.length;i++)
+		{
+			if(ans[i].checked)
+			{
+				 res1=ans[i].value;
+				//alert(res1);
+			}
+		}
+		//checking the right answer for question1
+		if(res1 == "delhi")
+		{
+		total = total +1;
+		}
+		
+		//for question 2
+		ans=document.getElementsByName("capital2"); //2
+		for(i=0;i<ans.length;i++)
+		{
+			if(ans[i].checked)
+			{
+				 res1=ans[i].value;
+				//alert(res1);
+			}
+		}
+		//checking the right answer for question1
+		if(res1 == "mumbai")
+		{
+		total = total +1;
+		}
+		
+		//for question 3
+		ans=document.getElementsByName("capital3"); //2
+		for(i=0;i<ans.length;i++)
+		{
+			if(ans[i].checked)
+			{
+				 res1=ans[i].value;
+				//alert(res1);
+			}
+		}
+		//checking the right answer for question1
+		if(res1 == "bhopal")
+		{
+		total = total +1;
+		}
+		//alert("total marks out of 3 : " + total);
+		document.getElementById("res").innerHTML="Total marks out of 3 : " + total;
+	}
+	</script>

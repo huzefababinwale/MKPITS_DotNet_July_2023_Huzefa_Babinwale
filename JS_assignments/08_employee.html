@@ -1,0 +1,85 @@
+<html>
+    <script language="javascript">
+        function Emp()
+        {
+        
+            var ename=document.getElementById("m1").value;
+            var basic=parseInt(document.getElementById("m2").value);
+            // var basic=0;
+            
+            var managerchecked=document.getElementById("m3").checked;
+            var clerkchecked=document.getElementById("m4").checked;
+            var peonchecked=document.getElementById("m4").checked;
+            // var clerkchecked=document.getElementById("m5").checked;
+
+        
+            var bonus= basic;
+
+            if(managerchecked)
+            {
+                document.getElementById("name").innerHTML= ename;
+                // var a=5000;
+                bonus=basic+5000;
+                document.getElementById("des").innerHTML="Manager"; 
+                document.getElementById("bon").innerHTML=" Total of rs."+bonus; 
+                
+            }
+            else if (clerkchecked)
+            {
+                document.getElementById("name").innerHTML= ename;
+                bonus=basic+2000;
+                document.getElementById("des").innerHTML= "Clerk"; 
+                document.getElementById("bon").innerHTML=" Total of rs."+bonus;
+            }
+            else if(peonchecked)
+            {
+                document.getElementById("name").innerHTML= ename;
+                bonus=basic+1000;
+                document.getElementById("des").innerHTML="Peon"; 
+                document.getElementById("bon").innerHTML=" Total of rs."+bonus;
+            }
+            
+            // document.getElementById("result").innerHTML="Total Marks are: " +sum +" & "+ per+"%";
+        }
+        </script>
+
+    <body>
+        <form name="c1">
+            Employee name : <input type=text id="m1"/><br><br>
+            Baisc Salary : <input type=text id="m2"/><br><br>
+            designation : <br><br>
+            <span>
+                Manager
+                <input type="checkbox" id="m3"value="manager"/><br><br>
+            </span>
+            <span>
+                Clerk
+                <input type="checkbox" id="m4"value="clerk"/><br><br>
+            </span>
+            <span>
+                Peon
+                <input type="checkbox" id="m5"value="clerk"/><br><br>
+            </span>
+            
+            
+            <button type=button onclick="Emp();" > Employee Details</button> <br><br>
+            <div >Employee Name :
+                <span id="name">
+                    --
+                </span>
+            </div>
+            <div>Designation :
+                <span id="des">
+
+                </span>
+            </div>
+            <div>Basic + Bonus :
+                <span id="bon">
+
+                </span>
+            </div>
+
+        </form>
+
+    </body>
+</html>

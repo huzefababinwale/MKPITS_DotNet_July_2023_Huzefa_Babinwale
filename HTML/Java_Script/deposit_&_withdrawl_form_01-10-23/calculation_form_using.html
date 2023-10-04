@@ -11,27 +11,40 @@
     <script language="javascript">
         function ok()
         {
-            var num1=document.getElementById("").value;
-            var num2=document.getElementById("").value;
+        
+            var num1=document.getElementById("e1").value;
+            var num2=document.getElementById("e2").value;
+            alert("ok button pressed"+num1)
             
             var res;
-            var add= parseInt(num1)+parseInt(num2);
-            var sub= parseInt(num1)-parseInt(num2);
-            var mul=parseInt(num1)*parseInt(num2);
-            var div= parseInt(num1)/parseInt(num2);
-            alert("ok button pressed"+num1)
-            if (add==true)
-            {
+            var add1= parseInt(num1)+parseInt(num2);
+            var sub1= parseInt(num1)-parseInt(num2);
+            var mul1=parseInt(num1)*parseInt(num2);
+            var div1= parseInt(num1)/parseInt(num2);
+            // for(i=0;i<r.lenth;i++)
+            // {
                 
-            }
-            
-            if()
-        }
+                var divChecked = document.getElementById("div").checked
+                var mulChecked=document.getElementById("mul").checked
+                if(divChecked){
+                    document.getElementById("dans").innerHTML=div1;
+                }
+                else if(mulChecked){
+                    document.getElementById("mul").innerHTML=div1;
+                }
+                else if(subChecked){
+                    
+                }
+               
+                }            
+        // }
+
+        
 
 
     </script>
 
-    <script language="javascript">
+    <!-- <script language="javascript">
         function square()
         {
             var num;
@@ -39,22 +52,22 @@
             var sq=parseInt(num)*parseInt(num);
             alert("square = " + sq)
             document.getElementById("result").innerHTML="square = "+sq;
-        }
+        } -->
 
 
-    </script>
-    <body>
+    <!-- </script> -->
+    <!-- <body>
         <form name="f1">
             enter number: <input type="text" name="t1" /><br><br>
-            <input type="button" value="ok" onclick="square();">
+            <input type="button" value="ok" onclick="ok();">
             <br><br>
             <span id="result" >-</span>
-        </form>
+        </form> -->
 
     <body style="background-color:burlywood;">
-        <div class="container" style="margin:10%; text-align: justify;" >
+        <div class="container" style="margin:10%; text-align: justify; margin-top: 10%;" >
             <form name="f1" >
-                <div class="form-group">
+                <div class="form-group ">
                     <label for="amount">Enter Num 1: </label>
                     <input type="text" id="e1" name="e1"> 
                 </div>
@@ -62,32 +75,37 @@
                 <div>
                     <div class="form-group">
                     <label for="amount">Enter Num 2: </label>
-                    <input type="text" id="e1" name="e1"> 
+                    <input type="text" id="e2" name="e2"> 
                 </div>
                 <br>
                 <div class="form-group">
 		            <label>Action</label>
 		            <div class="form-check" style="margin:10px">
-		            <input class="form-check-input" type="checkbox" name="add" id="course1" value="dotnet">
-		            <label class="form-check-label" for="course1">
+		            <input class="form-check-input" type="checkbox" name="addname" id="add" value="add">
+		            <label class="form-check-label" for="addname">
 		            Add
 		            </label>
 		        </div>
 		        <div class="form-check" style="margin:10px">
-		            <input class="form-check-input" type="checkbox" name="course2" id="course2" value="java">
-		            <label class="form-check-label" for="course2">
+		            <input class="form-check-input" type="checkbox" name="subname" id="sub" value="sub">
+		            <label class="form-check-label" for="subname">
 		            Sub
 		        </label>
 		        </div>
                 <div class="form-check" style="margin:10px">
-		            <input class="form-check-input" type="checkbox" name="course2" id="course2" value="java">
-		            <label class="form-check-label" for="course2">
+		            <input class="form-check-input" type="checkbox" name="mulname" id="mul" value="mul">
+		            <label class="form-check-label" for="mulname">
 		            Multiply
 		        </label>
 		        </div>
-	            
+	            <div class="form-check" style="margin:10px">
+		            <input class="form-check-input" type="checkbox" name="divname" id="div" value="div">
+		            <label class="form-check-label" for="divname">
+		            Division
+		        </label>
+		        </div>
                 <div class="form-check" >
-                    <button type="button" onclick="ok();" value="OK" style="padding:0px; padding-left: 6px; padding-right:6px ;" id="ok" name="ok">OK</button>
+                    <button type="button" onclick="ok()"  style="padding:0px; padding-left: 6px; padding-right:6px ;" >ok</button>
                 </div>
 
 
@@ -110,7 +128,7 @@
                     </div>
                     <div class="row" style="margin: 2px;">
                         <div class="col">
-                            Division : <span id="div"></span>
+                            Division : <span id="dans" ></span>
                         </div>
                     </div>
                 </div>
