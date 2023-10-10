@@ -1,0 +1,19 @@
+enter first name : <input type=text id="t1" name="t1" onkeypress="check();" />
+
+enter last name : <input type=text id="t2" name="t2" />
+
+<button type=button onclick="check();"> submti </button>
+<br><br>
+
+<span id="res" > </span>
+
+<script>
+var r="";
+	function check()
+	{
+	r = document.getElementById("t1").value;
+    s = document.getElementById("t2").value;
+	document.getElementById("res").innerHTML +=r+" "+s+"<br>";
+	}
+
+</script>
