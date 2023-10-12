@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\uint_int16-32-64_string_char_size\uint_int16-32-64_string_char_size\bin\Debug\uint_int16-32-64_string_char_size.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\uint_int16-32-64_string_char_size\uint_int16-32-64_string_char_size\bin\Debug\uint_int16-32-64_string_char_size.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\uint_int16-32-64_string_char_size\uint_int16-32-64_string_char_size\bin\Debug\uint_int16-32-64_string_char_size.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\uint_int16-32-64_string_char_size\uint_int16-32-64_string_char_size\obj\Debug\uint_int16-32-64_string_char_size.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\uint_int16-32-64_string_char_size\uint_int16-32-64_string_char_size\obj\Debug\uint_int16-32-64_string_char_size.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\uint_int16-32-64_string_char_size\uint_int16-32-64_string_char_size\obj\Debug\uint_int16-32-64_string_char_size.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\uint_int16-32-64_string_char_size\uint_int16-32-64_string_char_size\obj\Debug\uint_int16-32-64_string_char_size.pdb
