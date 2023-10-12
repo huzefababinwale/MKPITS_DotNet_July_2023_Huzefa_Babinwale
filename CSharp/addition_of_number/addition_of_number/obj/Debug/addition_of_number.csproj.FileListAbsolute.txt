@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\addition_of_number\addition_of_number\bin\Debug\addition_of_number.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\addition_of_number\addition_of_number\bin\Debug\addition_of_number.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\addition_of_number\addition_of_number\bin\Debug\addition_of_number.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\addition_of_number\addition_of_number\obj\Debug\addition_of_number.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\addition_of_number\addition_of_number\obj\Debug\addition_of_number.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\addition_of_number\addition_of_number\obj\Debug\addition_of_number.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\addition_of_number\addition_of_number\obj\Debug\addition_of_number.pdb

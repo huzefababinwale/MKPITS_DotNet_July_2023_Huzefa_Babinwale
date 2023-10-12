@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Result_of_division\Result_of_division\bin\Debug\Result_of_division.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Result_of_division\Result_of_division\bin\Debug\Result_of_division.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Result_of_division\Result_of_division\bin\Debug\Result_of_division.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Result_of_division\Result_of_division\obj\Debug\Result_of_division.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Result_of_division\Result_of_division\obj\Debug\Result_of_division.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Result_of_division\Result_of_division\obj\Debug\Result_of_division.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Result_of_division\Result_of_division\obj\Debug\Result_of_division.pdb

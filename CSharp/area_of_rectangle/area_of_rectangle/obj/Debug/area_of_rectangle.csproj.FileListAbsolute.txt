@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\area_of_rectangle\area_of_rectangle\bin\Debug\area_of_rectangle.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\area_of_rectangle\area_of_rectangle\bin\Debug\area_of_rectangle.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\area_of_rectangle\area_of_rectangle\bin\Debug\area_of_rectangle.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\area_of_rectangle\area_of_rectangle\obj\Debug\area_of_rectangle.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\area_of_rectangle\area_of_rectangle\obj\Debug\area_of_rectangle.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\area_of_rectangle\area_of_rectangle\obj\Debug\area_of_rectangle.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\area_of_rectangle\area_of_rectangle\obj\Debug\area_of_rectangle.pdb
