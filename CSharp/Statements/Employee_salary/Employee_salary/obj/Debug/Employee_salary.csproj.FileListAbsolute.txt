@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Employee_salary\Employee_salary\bin\Debug\Employee_salary.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Employee_salary\Employee_salary\bin\Debug\Employee_salary.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Employee_salary\Employee_salary\bin\Debug\Employee_salary.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Employee_salary\Employee_salary\obj\Debug\Employee_salary.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Employee_salary\Employee_salary\obj\Debug\Employee_salary.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Employee_salary\Employee_salary\obj\Debug\Employee_salary.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Employee_salary\Employee_salary\obj\Debug\Employee_salary.pdb

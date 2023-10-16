@@ -10,11 +10,11 @@ namespace uint_int16_32_64_string_char_size
     {
         static void Main(string[] args)
         {
-            /*char ch;
+            char ch;
             Console.WriteLine("Enter Character");
             ch= Convert.ToChar(Console.ReadLine());
             Console.WriteLine("Character Entered: " + ch);
-*/
+
             int intValue = 125;
             long longValue = intValue;
             Console.WriteLine("(long) {0} ={1}", intValue,longValue + "these no. can exceed upto -2^63 to 2^63-1");
