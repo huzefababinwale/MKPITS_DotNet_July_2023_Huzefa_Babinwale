@@ -1,0 +1,2 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\digit_to_word_Convert\digit_to_word_Convert\obj\Debug\digit_to_word_Convert.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\digit_to_word_Convert\digit_to_word_Convert\obj\Debug\digit_to_word_Convert.csproj.CoreCompileInputs.cache

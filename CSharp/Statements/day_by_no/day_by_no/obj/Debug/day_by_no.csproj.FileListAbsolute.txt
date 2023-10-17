@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\day_by_no\day_by_no\bin\Debug\day_by_no.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\day_by_no\day_by_no\bin\Debug\day_by_no.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\day_by_no\day_by_no\bin\Debug\day_by_no.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\day_by_no\day_by_no\obj\Debug\day_by_no.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\day_by_no\day_by_no\obj\Debug\day_by_no.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\day_by_no\day_by_no\obj\Debug\day_by_no.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\day_by_no\day_by_no\obj\Debug\day_by_no.pdb

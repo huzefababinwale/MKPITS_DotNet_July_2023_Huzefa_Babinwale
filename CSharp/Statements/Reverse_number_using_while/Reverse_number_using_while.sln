@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_number_using_while", "Reverse_number_using_while\Reverse_number_using_while.csproj", "{36238AA4-6268-4C6D-8A3C-A001237C1C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36238AA4-6268-4C6D-8A3C-A001237C1C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36238AA4-6268-4C6D-8A3C-A001237C1C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36238AA4-6268-4C6D-8A3C-A001237C1C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36238AA4-6268-4C6D-8A3C-A001237C1C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E68D000-D87F-4C9C-9218-4BCEAC5B8905}
+	EndGlobalSection
+EndGlobal
