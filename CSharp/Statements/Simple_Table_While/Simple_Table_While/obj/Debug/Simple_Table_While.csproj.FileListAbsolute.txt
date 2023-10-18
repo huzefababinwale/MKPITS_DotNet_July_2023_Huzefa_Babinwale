@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Simple_Table_While\Simple_Table_While\bin\Debug\Simple_Table_While.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Simple_Table_While\Simple_Table_While\bin\Debug\Simple_Table_While.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Simple_Table_While\Simple_Table_While\bin\Debug\Simple_Table_While.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Simple_Table_While\Simple_Table_While\obj\Debug\Simple_Table_While.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Simple_Table_While\Simple_Table_While\obj\Debug\Simple_Table_While.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Simple_Table_While\Simple_Table_While\obj\Debug\Simple_Table_While.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Simple_Table_While\Simple_Table_While\obj\Debug\Simple_Table_While.pdb

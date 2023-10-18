@@ -10,6 +10,18 @@ namespace Table_of_number_while
     {
         static void Main(string[] args)
         {
+            int num = 1;
+            Console.WriteLine("Enter Number for table: ");
+            int tb=Convert.ToInt32(Console.ReadLine());
+
+            while(num<=10)
+            {
+
+                Console.WriteLine("{0}*{1}= "+ num * tb,num,tb);
+                num++;
+
+            }
+            Console.ReadKey();
         }
     }
 }

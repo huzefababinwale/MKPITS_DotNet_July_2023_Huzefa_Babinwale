@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Cube_integer_While\Cube_integer_While\bin\Debug\Cube_integer_While.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Cube_integer_While\Cube_integer_While\bin\Debug\Cube_integer_While.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Cube_integer_While\Cube_integer_While\bin\Debug\Cube_integer_While.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Cube_integer_While\Cube_integer_While\obj\Debug\Cube_integer_While.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Cube_integer_While\Cube_integer_While\obj\Debug\Cube_integer_While.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Cube_integer_While\Cube_integer_While\obj\Debug\Cube_integer_While.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\Cube_integer_While\Cube_integer_While\obj\Debug\Cube_integer_While.pdb

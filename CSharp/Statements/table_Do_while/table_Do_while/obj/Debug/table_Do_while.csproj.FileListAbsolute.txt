@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\table_Do_while\table_Do_while\obj\Debug\table_Do_while.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\table_Do_while\table_Do_while\obj\Debug\table_Do_while.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\table_Do_while\table_Do_while\bin\Debug\table_Do_while.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\table_Do_while\table_Do_while\bin\Debug\table_Do_while.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\table_Do_while\table_Do_while\bin\Debug\table_Do_while.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\table_Do_while\table_Do_while\obj\Debug\table_Do_while.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\table_Do_while\table_Do_while\obj\Debug\table_Do_while.pdb
