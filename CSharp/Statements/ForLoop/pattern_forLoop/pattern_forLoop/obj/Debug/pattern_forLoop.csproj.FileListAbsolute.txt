@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\pattern_forLoop\pattern_forLoop\bin\Debug\pattern_forLoop.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\pattern_forLoop\pattern_forLoop\bin\Debug\pattern_forLoop.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\pattern_forLoop\pattern_forLoop\bin\Debug\pattern_forLoop.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\pattern_forLoop\pattern_forLoop\obj\Debug\pattern_forLoop.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\pattern_forLoop\pattern_forLoop\obj\Debug\pattern_forLoop.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\pattern_forLoop\pattern_forLoop\obj\Debug\pattern_forLoop.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\pattern_forLoop\pattern_forLoop\obj\Debug\pattern_forLoop.pdb

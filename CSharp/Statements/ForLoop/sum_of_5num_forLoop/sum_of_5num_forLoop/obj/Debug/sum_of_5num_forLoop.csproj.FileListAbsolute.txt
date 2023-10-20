@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\sum_of_5num_forLoop\sum_of_5num_forLoop\obj\Debug\sum_of_5num_forLoop.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\sum_of_5num_forLoop\sum_of_5num_forLoop\obj\Debug\sum_of_5num_forLoop.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\sum_of_5num_forLoop\sum_of_5num_forLoop\bin\Debug\sum_of_5num_forLoop.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\sum_of_5num_forLoop\sum_of_5num_forLoop\bin\Debug\sum_of_5num_forLoop.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\sum_of_5num_forLoop\sum_of_5num_forLoop\bin\Debug\sum_of_5num_forLoop.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\sum_of_5num_forLoop\sum_of_5num_forLoop\obj\Debug\sum_of_5num_forLoop.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Statements\ForLoop\sum_of_5num_forLoop\sum_of_5num_forLoop\obj\Debug\sum_of_5num_forLoop.pdb

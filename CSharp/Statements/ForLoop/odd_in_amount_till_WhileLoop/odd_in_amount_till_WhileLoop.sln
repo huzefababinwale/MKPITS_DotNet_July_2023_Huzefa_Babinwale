@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "odd_in_amount_till_WhileLoop", "odd_in_amount_till_WhileLoop\odd_in_amount_till_WhileLoop.csproj", "{070B5C04-57EF-4069-A1F1-0511E76A8B6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070B5C04-57EF-4069-A1F1-0511E76A8B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070B5C04-57EF-4069-A1F1-0511E76A8B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070B5C04-57EF-4069-A1F1-0511E76A8B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070B5C04-57EF-4069-A1F1-0511E76A8B6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D529DC-6719-433F-B1FB-2DE45EF983E5}
+	EndGlobalSection
+EndGlobal
