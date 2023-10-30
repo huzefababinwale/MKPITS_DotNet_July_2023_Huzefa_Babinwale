@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\sort_array\sort_array\bin\Debug\sort_array.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\sort_array\sort_array\bin\Debug\sort_array.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\sort_array\sort_array\bin\Debug\sort_array.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\sort_array\sort_array\obj\Debug\sort_array.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\sort_array\sort_array\obj\Debug\sort_array.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\sort_array\sort_array\obj\Debug\sort_array.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\sort_array\sort_array\obj\Debug\sort_array.pdb
