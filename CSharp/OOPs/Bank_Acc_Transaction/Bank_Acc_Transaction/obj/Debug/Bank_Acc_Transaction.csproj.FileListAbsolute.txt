@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Bank_Acc_Transaction\Bank_Acc_Transaction\bin\Debug\Bank_Acc_Transaction.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Bank_Acc_Transaction\Bank_Acc_Transaction\bin\Debug\Bank_Acc_Transaction.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Bank_Acc_Transaction\Bank_Acc_Transaction\bin\Debug\Bank_Acc_Transaction.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Bank_Acc_Transaction\Bank_Acc_Transaction\obj\Debug\Bank_Acc_Transaction.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Bank_Acc_Transaction\Bank_Acc_Transaction\obj\Debug\Bank_Acc_Transaction.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Bank_Acc_Transaction\Bank_Acc_Transaction\obj\Debug\Bank_Acc_Transaction.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Bank_Acc_Transaction\Bank_Acc_Transaction\obj\Debug\Bank_Acc_Transaction.pdb
