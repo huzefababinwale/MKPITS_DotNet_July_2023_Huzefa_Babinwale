@@ -1,0 +1,10 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\obj\Debug\PersonClass_form.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\obj\Debug\PersonClass_form.Form1.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\obj\Debug\PersonClass_form.Properties.Resources.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\obj\Debug\PersonClass_form.csproj.GenerateResource.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\obj\Debug\PersonClass_form.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\bin\Debug\PersonClass_form.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\bin\Debug\PersonClass_form.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\bin\Debug\PersonClass_form.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\obj\Debug\PersonClass_form.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\PersonClass_form\PersonClass_form\obj\Debug\PersonClass_form.pdb
