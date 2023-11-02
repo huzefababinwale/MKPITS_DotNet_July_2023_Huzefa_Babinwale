@@ -1,0 +1,10 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\bin\Debug\Student_fees.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\bin\Debug\Student_fees.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\bin\Debug\Student_fees.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\obj\Debug\Student_fees.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\obj\Debug\Student_fees.Form1.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\obj\Debug\Student_fees.Properties.Resources.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\obj\Debug\Student_fees.csproj.GenerateResource.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\obj\Debug\Student_fees.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\obj\Debug\Student_fees.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Student_fees\Student_fees\obj\Debug\Student_fees.pdb
