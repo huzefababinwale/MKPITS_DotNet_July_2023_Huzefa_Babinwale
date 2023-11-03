@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Constructor\Constructor\Constructor\bin\Debug\Constructor.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Constructor\Constructor\Constructor\bin\Debug\Constructor.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Constructor\Constructor\Constructor\bin\Debug\Constructor.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Constructor\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Constructor\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Constructor\Constructor\Constructor\obj\Debug\Constructor.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Constructor\Constructor\Constructor\obj\Debug\Constructor.pdb
