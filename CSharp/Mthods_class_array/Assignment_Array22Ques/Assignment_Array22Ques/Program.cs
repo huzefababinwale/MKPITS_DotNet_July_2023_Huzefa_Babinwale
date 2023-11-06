@@ -413,7 +413,8 @@ namespace Assignment_Array22Ques
             /*18th*/
             int[,] arr = new int[2, 2];
             int[,] arr2 = new int[2, 2];
-            
+            int[,] arr3 = new int[2,2];
+
             int i, j;
             for (i = 0; i < 3; i++)
             {
