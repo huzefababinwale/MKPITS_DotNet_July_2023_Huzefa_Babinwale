@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\Array_of_Objects\Array_of_Objects\bin\Debug\Array_of_Objects.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\Array_of_Objects\Array_of_Objects\bin\Debug\Array_of_Objects.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\Array_of_Objects\Array_of_Objects\bin\Debug\Array_of_Objects.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\Array_of_Objects\Array_of_Objects\obj\Debug\Array_of_Objects.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\Array_of_Objects\Array_of_Objects\obj\Debug\Array_of_Objects.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\Array_of_Objects\Array_of_Objects\obj\Debug\Array_of_Objects.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Mthods_class_array\Array_of_Objects\Array_of_Objects\obj\Debug\Array_of_Objects.pdb
