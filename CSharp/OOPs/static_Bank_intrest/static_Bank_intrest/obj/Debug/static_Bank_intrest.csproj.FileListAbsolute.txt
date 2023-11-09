@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\static_Bank_intrest\static_Bank_intrest\bin\Debug\static_Bank_intrest.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\static_Bank_intrest\static_Bank_intrest\bin\Debug\static_Bank_intrest.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\static_Bank_intrest\static_Bank_intrest\bin\Debug\static_Bank_intrest.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\static_Bank_intrest\static_Bank_intrest\obj\Debug\static_Bank_intrest.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\static_Bank_intrest\static_Bank_intrest\obj\Debug\static_Bank_intrest.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\static_Bank_intrest\static_Bank_intrest\obj\Debug\static_Bank_intrest.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\static_Bank_intrest\static_Bank_intrest\obj\Debug\static_Bank_intrest.pdb

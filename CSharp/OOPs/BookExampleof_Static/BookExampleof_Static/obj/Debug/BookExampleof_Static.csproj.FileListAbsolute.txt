@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\BookExampleof_Static\BookExampleof_Static\bin\Debug\BookExampleof_Static.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\BookExampleof_Static\BookExampleof_Static\bin\Debug\BookExampleof_Static.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\BookExampleof_Static\BookExampleof_Static\bin\Debug\BookExampleof_Static.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\BookExampleof_Static\BookExampleof_Static\obj\Debug\BookExampleof_Static.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\BookExampleof_Static\BookExampleof_Static\obj\Debug\BookExampleof_Static.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\BookExampleof_Static\BookExampleof_Static\obj\Debug\BookExampleof_Static.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\BookExampleof_Static\BookExampleof_Static\obj\Debug\BookExampleof_Static.pdb

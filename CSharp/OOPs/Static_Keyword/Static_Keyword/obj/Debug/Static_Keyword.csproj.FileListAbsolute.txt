@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Static_Keyword\Static_Keyword\bin\Debug\Static_Keyword.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Static_Keyword\Static_Keyword\bin\Debug\Static_Keyword.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Static_Keyword\Static_Keyword\bin\Debug\Static_Keyword.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Static_Keyword\Static_Keyword\obj\Debug\Static_Keyword.pdb
