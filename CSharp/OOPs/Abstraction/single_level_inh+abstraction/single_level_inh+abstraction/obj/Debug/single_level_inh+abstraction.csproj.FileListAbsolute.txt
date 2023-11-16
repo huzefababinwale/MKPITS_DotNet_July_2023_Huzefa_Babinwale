@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\single_level_inh+abstraction\single_level_inh+abstraction\bin\Debug\single_level_inh+abstraction.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\single_level_inh+abstraction\single_level_inh+abstraction\bin\Debug\single_level_inh+abstraction.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\single_level_inh+abstraction\single_level_inh+abstraction\bin\Debug\single_level_inh+abstraction.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\single_level_inh+abstraction\single_level_inh+abstraction\obj\Debug\single_level_inh+abstraction.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\single_level_inh+abstraction\single_level_inh+abstraction\obj\Debug\single_level_inh+abstraction.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\single_level_inh+abstraction\single_level_inh+abstraction\obj\Debug\single_level_inh+abstraction.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\single_level_inh+abstraction\single_level_inh+abstraction\obj\Debug\single_level_inh+abstraction.pdb

@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\Assignment_Employee\Assignment_Employee\bin\Debug\Assignment_Employee.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\Assignment_Employee\Assignment_Employee\bin\Debug\Assignment_Employee.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\Assignment_Employee\Assignment_Employee\bin\Debug\Assignment_Employee.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\Assignment_Employee\Assignment_Employee\obj\Debug\Assignment_Employee.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\Assignment_Employee\Assignment_Employee\obj\Debug\Assignment_Employee.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\Assignment_Employee\Assignment_Employee\obj\Debug\Assignment_Employee.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstraction\Assignment_Employee\Assignment_Employee\obj\Debug\Assignment_Employee.pdb
