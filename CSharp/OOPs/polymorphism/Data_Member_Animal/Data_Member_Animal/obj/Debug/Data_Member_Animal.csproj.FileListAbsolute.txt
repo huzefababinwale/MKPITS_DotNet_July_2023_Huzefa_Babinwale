@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\polymorphism\Data_Member_Animal\Data_Member_Animal\bin\Debug\Data_Member_Animal.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\polymorphism\Data_Member_Animal\Data_Member_Animal\bin\Debug\Data_Member_Animal.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\polymorphism\Data_Member_Animal\Data_Member_Animal\bin\Debug\Data_Member_Animal.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\polymorphism\Data_Member_Animal\Data_Member_Animal\obj\Debug\Data_Member_Animal.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\polymorphism\Data_Member_Animal\Data_Member_Animal\obj\Debug\Data_Member_Animal.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\polymorphism\Data_Member_Animal\Data_Member_Animal\obj\Debug\Data_Member_Animal.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\polymorphism\Data_Member_Animal\Data_Member_Animal\obj\Debug\Data_Member_Animal.pdb
