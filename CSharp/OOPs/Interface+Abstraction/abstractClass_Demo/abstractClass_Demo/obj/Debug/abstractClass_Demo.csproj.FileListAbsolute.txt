@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\abstractClass_Demo\abstractClass_Demo\bin\Debug\abstractClass_Demo.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\abstractClass_Demo\abstractClass_Demo\bin\Debug\abstractClass_Demo.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\abstractClass_Demo\abstractClass_Demo\bin\Debug\abstractClass_Demo.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\abstractClass_Demo\abstractClass_Demo\obj\Debug\abstractClass_Demo.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\abstractClass_Demo\abstractClass_Demo\obj\Debug\abstractClass_Demo.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\abstractClass_Demo\abstractClass_Demo\obj\Debug\abstractClass_Demo.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\abstractClass_Demo\abstractClass_Demo\obj\Debug\abstractClass_Demo.pdb

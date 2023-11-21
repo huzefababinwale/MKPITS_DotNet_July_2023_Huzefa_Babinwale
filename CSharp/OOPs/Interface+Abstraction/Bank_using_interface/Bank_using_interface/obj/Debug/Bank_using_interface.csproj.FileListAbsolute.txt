@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Bank_using_interface\Bank_using_interface\bin\Debug\Bank_using_interface.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Bank_using_interface\Bank_using_interface\bin\Debug\Bank_using_interface.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Bank_using_interface\Bank_using_interface\bin\Debug\Bank_using_interface.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Bank_using_interface\Bank_using_interface\obj\Debug\Bank_using_interface.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Bank_using_interface\Bank_using_interface\obj\Debug\Bank_using_interface.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Bank_using_interface\Bank_using_interface\obj\Debug\Bank_using_interface.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Bank_using_interface\Bank_using_interface\obj\Debug\Bank_using_interface.pdb
