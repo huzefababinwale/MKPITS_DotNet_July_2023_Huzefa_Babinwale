@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Assigment_interface\Assigment_interface\obj\Debug\Assigment_interface.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Assigment_interface\Assigment_interface\obj\Debug\Assigment_interface.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Assigment_interface\Assigment_interface\bin\Debug\Assigment_interface.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Assigment_interface\Assigment_interface\bin\Debug\Assigment_interface.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Assigment_interface\Assigment_interface\bin\Debug\Assigment_interface.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Assigment_interface\Assigment_interface\obj\Debug\Assigment_interface.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Assigment_interface\Assigment_interface\obj\Debug\Assigment_interface.pdb

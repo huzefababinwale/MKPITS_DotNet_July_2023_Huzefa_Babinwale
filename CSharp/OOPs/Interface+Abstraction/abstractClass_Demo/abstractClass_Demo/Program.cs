@@ -26,12 +26,12 @@ namespace abstractClass_Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter Any number");
+            Console.WriteLine("Enter Any number");  
             Shape s=new Circle();
             /*s.shape();*/
+
             string sr = s.shape();
             Console.WriteLine(sr);
-            
             s.draw();
             Console.ReadKey();
         }

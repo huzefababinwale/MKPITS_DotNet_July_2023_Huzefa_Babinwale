@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Base_method\Base_method\bin\Debug\Base_method.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Base_method\Base_method\bin\Debug\Base_method.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Base_method\Base_method\bin\Debug\Base_method.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Base_method\Base_method\obj\Debug\Base_method.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Base_method\Base_method\obj\Debug\Base_method.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Base_method\Base_method\obj\Debug\Base_method.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Interface+Abstraction\Base_method\Base_method\obj\Debug\Base_method.pdb

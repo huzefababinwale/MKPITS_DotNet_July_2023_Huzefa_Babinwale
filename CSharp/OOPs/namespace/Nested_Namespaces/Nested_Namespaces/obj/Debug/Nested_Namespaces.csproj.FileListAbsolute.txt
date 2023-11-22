@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\Nested_Namespaces\Nested_Namespaces\bin\Debug\Nested_Namespaces.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\Nested_Namespaces\Nested_Namespaces\bin\Debug\Nested_Namespaces.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\Nested_Namespaces\Nested_Namespaces\bin\Debug\Nested_Namespaces.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\Nested_Namespaces\Nested_Namespaces\obj\Debug\Nested_Namespaces.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\Nested_Namespaces\Nested_Namespaces\obj\Debug\Nested_Namespaces.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\Nested_Namespaces\Nested_Namespaces\obj\Debug\Nested_Namespaces.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\Nested_Namespaces\Nested_Namespaces\obj\Debug\Nested_Namespaces.pdb

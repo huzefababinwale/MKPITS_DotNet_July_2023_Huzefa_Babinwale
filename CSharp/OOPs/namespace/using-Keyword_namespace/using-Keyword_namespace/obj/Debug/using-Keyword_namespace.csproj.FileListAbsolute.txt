@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\using-Keyword_namespace\using-Keyword_namespace\bin\Debug\using-Keyword_namespace.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\using-Keyword_namespace\using-Keyword_namespace\bin\Debug\using-Keyword_namespace.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\using-Keyword_namespace\using-Keyword_namespace\bin\Debug\using-Keyword_namespace.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\using-Keyword_namespace\using-Keyword_namespace\obj\Debug\using-Keyword_namespace.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\using-Keyword_namespace\using-Keyword_namespace\obj\Debug\using-Keyword_namespace.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\using-Keyword_namespace\using-Keyword_namespace\obj\Debug\using-Keyword_namespace.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\namespace\using-Keyword_namespace\using-Keyword_namespace\obj\Debug\using-Keyword_namespace.pdb
