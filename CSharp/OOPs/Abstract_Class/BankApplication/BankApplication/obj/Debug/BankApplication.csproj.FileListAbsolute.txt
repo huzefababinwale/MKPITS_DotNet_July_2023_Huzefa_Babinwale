@@ -1,0 +1,10 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\obj\Debug\BankApplication.Form1.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Abstract_Class\BankApplication\BankApplication\obj\Debug\BankApplication.pdb

@@ -27,10 +27,11 @@ namespace Nested_Namespaces
     {
         static void Main(string[] args)
         {
-            First.Second.Welcome h2 = new Welcome();
-            First.Hellow h1 = new Hellow();
+            //as we can see by creating object we can call the classes and functionalities(methods) using '.' indicator
             
-            Console.ReadKey();
+            First.Hellow h1 = new Hellow();
+            First.Second.Welcome h2 = new Welcome();
+            Console.ReadKey(); 
         }
     }
 }
