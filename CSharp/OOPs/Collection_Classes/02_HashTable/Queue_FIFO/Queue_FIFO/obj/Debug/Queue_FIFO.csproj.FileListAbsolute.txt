@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\02_HashTable\Queue_FIFO\Queue_FIFO\bin\Debug\Queue_FIFO.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\02_HashTable\Queue_FIFO\Queue_FIFO\bin\Debug\Queue_FIFO.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\02_HashTable\Queue_FIFO\Queue_FIFO\bin\Debug\Queue_FIFO.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\02_HashTable\Queue_FIFO\Queue_FIFO\obj\Debug\Queue_FIFO.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\02_HashTable\Queue_FIFO\Queue_FIFO\obj\Debug\Queue_FIFO.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\02_HashTable\Queue_FIFO\Queue_FIFO\obj\Debug\Queue_FIFO.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\02_HashTable\Queue_FIFO\Queue_FIFO\obj\Debug\Queue_FIFO.pdb
