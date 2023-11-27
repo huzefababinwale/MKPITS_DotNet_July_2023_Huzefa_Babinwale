@@ -33,6 +33,7 @@ namespace Email1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            richTextBox1.Clear();
             ICollection key = ht.Keys;
             foreach(int k in key)
             {
@@ -43,15 +44,35 @@ namespace Email1
 
         private void button3_Click(object sender, EventArgs e)
         {
+            StringBuilder ss = new StringBuilder();
             int find = Convert.ToInt32(textBox1.Text);
-            foreach(int find in ht)
-            {
-                if (find==ht.Keys)
+            string nm=textBox2.Text;
+            ICollection key = ht.Keys;
+            if (ht.ContainsKey(find))
                 {
-                    sb.Append("Key: " + k + "\tValue: " + ht[k] + "\n");
+                    ss.Append("Key: " + find + "\tValue: " + ht[find] + "\n");
+                    richTextBox1.Text = ss.ToString();
                 }
+            else if(ht.ContainsValue(nm)) 
+            {
+                ss.Append("Key: " + nm + "\tValue: " + ht[nm] + "\n");
+                richTextBox1.Text = ss.ToString();
             }
-            richTextBox1.Text=sb.ToString();
+            else 
+            {
+                    MessageBox.Show("Not found Anything ");
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            int find =Convert.ToInt32(textBox1.Text);
+            ICollection key = ht.Keys;
+            if (ht.ContainsKey(find))
+            {
+                ht.Remove(find);
+                MessageBox.Show("Object Removed Successfully");
+            }
         }
     }
 }
