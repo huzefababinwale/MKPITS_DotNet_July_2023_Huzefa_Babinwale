@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_WindowaForms", "List_WindowaForms\List_WindowaForms.csproj", "{9635546E-3BA8-4C51-8C8A-7E8FD8BD0AFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9635546E-3BA8-4C51-8C8A-7E8FD8BD0AFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9635546E-3BA8-4C51-8C8A-7E8FD8BD0AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9635546E-3BA8-4C51-8C8A-7E8FD8BD0AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9635546E-3BA8-4C51-8C8A-7E8FD8BD0AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2513BE9B-E5C8-4BB0-8EC0-691D6E9FCE9D}
+	EndGlobalSection
+EndGlobal
