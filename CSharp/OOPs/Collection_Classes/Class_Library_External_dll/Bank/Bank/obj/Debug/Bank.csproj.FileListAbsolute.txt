@@ -1,0 +1,6 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Bank\Bank\bin\Debug\Bank.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Bank\Bank\bin\Debug\Bank.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Bank\Bank\obj\Debug\Bank.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Bank\Bank\obj\Debug\Bank.pdb

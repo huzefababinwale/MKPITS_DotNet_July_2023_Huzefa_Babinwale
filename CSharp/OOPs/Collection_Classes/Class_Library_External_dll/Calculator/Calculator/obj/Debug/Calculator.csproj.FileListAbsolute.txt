@@ -1,0 +1,6 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Calculator\Calculator\bin\Debug\Calculator.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Calculator\Calculator\bin\Debug\Calculator.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Calculator\Calculator\obj\Debug\Calculator.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Class_Library_External_dll\Calculator\Calculator\obj\Debug\Calculator.pdb
