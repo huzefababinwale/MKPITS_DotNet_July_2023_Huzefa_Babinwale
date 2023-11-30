@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\stringError\stringError\bin\Debug\stringError.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\stringError\stringError\bin\Debug\stringError.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\stringError\stringError\bin\Debug\stringError.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\stringError\stringError\obj\Debug\stringError.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\stringError\stringError\obj\Debug\stringError.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\stringError\stringError\obj\Debug\stringError.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\stringError\stringError\obj\Debug\stringError.pdb

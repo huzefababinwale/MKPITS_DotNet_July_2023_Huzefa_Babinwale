@@ -19,7 +19,7 @@ namespace Bank
                 res = "insuficient Fund, Can not withdrawl amount";
             }
             else
-            {
+            { 
                 bal=bal-amount;
                 res = "amount withdrawl successfully, Current Balance is " + bal.ToString();
             }
