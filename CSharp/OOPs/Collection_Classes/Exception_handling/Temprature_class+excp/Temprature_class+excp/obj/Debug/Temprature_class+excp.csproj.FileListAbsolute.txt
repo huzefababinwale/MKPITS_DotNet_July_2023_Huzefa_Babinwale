@@ -1,0 +1,7 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\Temprature_class+excp\Temprature_class+excp\bin\Debug\Temprature_class+excp.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\Temprature_class+excp\Temprature_class+excp\bin\Debug\Temprature_class+excp.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\Temprature_class+excp\Temprature_class+excp\bin\Debug\Temprature_class+excp.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\Temprature_class+excp\Temprature_class+excp\obj\Debug\Temprature_class+excp.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\Temprature_class+excp\Temprature_class+excp\obj\Debug\Temprature_class+excp.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\Temprature_class+excp\Temprature_class+excp\obj\Debug\Temprature_class+excp.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\OOPs\Collection_Classes\Exception_handling\Temprature_class+excp\Temprature_class+excp\obj\Debug\Temprature_class+excp.pdb
