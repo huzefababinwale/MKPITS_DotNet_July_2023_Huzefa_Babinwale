@@ -95,11 +95,6 @@ namespace no_upto
                 sb3.Append(third+"\t");
             }
             richTextBox1.Text= sb3.ToString();
-            
-
-
-            
-
 
         }
     }
