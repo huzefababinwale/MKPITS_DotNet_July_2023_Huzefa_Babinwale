@@ -1,0 +1,10 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\bin\Debug\MCQs.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\bin\Debug\MCQs.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\bin\Debug\MCQs.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\obj\Debug\MCQs.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\obj\Debug\MCQs.Form1.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\obj\Debug\MCQs.Properties.Resources.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\obj\Debug\MCQs.csproj.GenerateResource.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\obj\Debug\MCQs.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\obj\Debug\MCQs.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\MCQs\MCQs\obj\Debug\MCQs.pdb

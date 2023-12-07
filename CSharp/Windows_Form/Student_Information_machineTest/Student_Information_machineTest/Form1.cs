@@ -17,7 +17,9 @@ namespace Student_Information_machineTest
         public Form1()
         {
             InitializeComponent();
+            dt.ToShortDateString();
             label3.Text = dt.ToString();
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -43,7 +45,6 @@ namespace Student_Information_machineTest
             {
                 MessageBox.Show("Please enter valid Name to execute the command.");
             }
-            
         }
 
         private void button2_Click(object sender, EventArgs e)
