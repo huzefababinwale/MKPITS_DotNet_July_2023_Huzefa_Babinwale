@@ -1,0 +1,10 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\bin\Debug\TabControl.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\bin\Debug\TabControl.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\bin\Debug\TabControl.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\obj\Debug\TabControl.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\obj\Debug\TabControl.Form1.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\obj\Debug\TabControl.Properties.Resources.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\obj\Debug\TabControl.csproj.GenerateResource.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\obj\Debug\TabControl.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\obj\Debug\TabControl.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\TabControl\TabControl\obj\Debug\TabControl.pdb

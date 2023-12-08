@@ -1,0 +1,10 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\bin\Debug\Treview_Control.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\bin\Debug\Treview_Control.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\bin\Debug\Treview_Control.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\obj\Debug\Treview_Control.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\obj\Debug\Treview_Control.Form1.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\obj\Debug\Treview_Control.Properties.Resources.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\obj\Debug\Treview_Control.csproj.GenerateResource.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\obj\Debug\Treview_Control.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\obj\Debug\Treview_Control.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Treview_Control\Treview_Control\obj\Debug\Treview_Control.pdb

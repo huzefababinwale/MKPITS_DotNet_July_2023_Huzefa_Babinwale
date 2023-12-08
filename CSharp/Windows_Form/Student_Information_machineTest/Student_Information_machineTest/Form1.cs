@@ -18,7 +18,7 @@ namespace Student_Information_machineTest
         {
             InitializeComponent();
             dt.ToShortDateString();
-            label3.Text = dt.ToString();
+            label3.Text = DateTime.Now.ToString();
 
         }
 
