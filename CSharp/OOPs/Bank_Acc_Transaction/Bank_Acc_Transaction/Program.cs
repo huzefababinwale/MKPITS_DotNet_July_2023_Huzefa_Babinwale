@@ -21,16 +21,17 @@ namespace Bank_Acc_Transaction
                 this.Acc_no = Acc_no;
                 this.Acc_name = Acc_name;
                 this.Balance = Balance;
-
             }
+
             public void transfer()
             {
                 Console.WriteLine(" Balance \t"+Balance + "Account no. \t "+Acc_no +" Account Holder Name:   "+Acc_name);               
             }
-            public int deposit(int d)
+            public void display(int d)
             {
-                Balance = Balance - d;
-                return Balance;
+                Console.WriteLine("Bank Account Number: " + Acc_no);
+                Console.WriteLine("Bank Account Holder Name: " + Acc_name);
+                Console.WriteLine("Bank Account Balance: " + Balance);
             }
             public void withdrawl(int ch)
             {

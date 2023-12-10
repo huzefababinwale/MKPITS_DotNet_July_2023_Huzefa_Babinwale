@@ -35,9 +35,9 @@ namespace BankAccount
 
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(b2.BankHolderName);
-            sb.Append(b2.BankAccountNumber);
-            sb.Append(b2.Balance);
+            sb.Append(b2.BankHolderName+"/n");
+            sb.Append(b2.BankAccountNumber + "/n");
+            sb.Append(b2.Balance + "/n");
             richTextBox1.Text = sb.ToString();
         }
 

@@ -18,6 +18,8 @@ namespace BankAccount
         {
 
             Console.WriteLine("Bank Account Number: " + BankAccountNumber);
+            Console.WriteLine("Bank Account Number: " + BankHolderName);
+            Console.WriteLine("Bank Account Number: " + Balance);
         }
     }
 
