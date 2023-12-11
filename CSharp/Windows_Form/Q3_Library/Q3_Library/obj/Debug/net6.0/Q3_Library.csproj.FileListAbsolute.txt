@@ -1,0 +1,14 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\bin\Debug\net6.0\Q3_Library.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\bin\Debug\net6.0\Q3_Library.deps.json
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\bin\Debug\net6.0\Q3_Library.runtimeconfig.json
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\bin\Debug\net6.0\Q3_Library.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\bin\Debug\net6.0\Q3_Library.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\Q3_Library.GeneratedMSBuildEditorConfig.editorconfig
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\Q3_Library.AssemblyInfoInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\Q3_Library.AssemblyInfo.cs
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\Q3_Library.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\Q3_Library.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\refint\Q3_Library.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\Q3_Library.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\Q3_Library.genruntimeconfig.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Library\Q3_Library\obj\Debug\net6.0\ref\Q3_Library.dll

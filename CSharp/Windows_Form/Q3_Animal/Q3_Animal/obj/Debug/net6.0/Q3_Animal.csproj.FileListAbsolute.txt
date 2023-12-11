@@ -1,0 +1,14 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\bin\Debug\net6.0\Q3_Animal.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\bin\Debug\net6.0\Q3_Animal.deps.json
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\bin\Debug\net6.0\Q3_Animal.runtimeconfig.json
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\bin\Debug\net6.0\Q3_Animal.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\bin\Debug\net6.0\Q3_Animal.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\Q3_Animal.GeneratedMSBuildEditorConfig.editorconfig
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\Q3_Animal.AssemblyInfoInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\Q3_Animal.AssemblyInfo.cs
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\Q3_Animal.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\Q3_Animal.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\refint\Q3_Animal.dll
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\Q3_Animal.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\Q3_Animal.genruntimeconfig.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\Q3_Animal\Q3_Animal\obj\Debug\net6.0\ref\Q3_Animal.dll

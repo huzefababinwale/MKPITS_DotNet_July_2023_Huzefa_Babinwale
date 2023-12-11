@@ -4,87 +4,51 @@ using System.Linq;
 using System.Runtime.Remoting.Services;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections;
 
 namespace Bank_Acc_Transaction
 {
     internal class Program
     {
-        class Bank
+        public static void Main(string[] args)
         {
-            int Acc_no;
-            string Acc_name;
-            int Balance;
+            Bank bank = new Bank();
 
+            // Create customers and accounts
+            Customer customer1 = new Customer("C1");
+            Account account1 = new Account("A1", 1000);
+            Account account2 = new Account("A2", 500);
 
-            public void get_data(int Acc_no, string Acc_name, int Balance)
-            {
-                this.Acc_no = Acc_no;
-                this.Acc_name = Acc_name;
-                this.Balance = Balance;
-            }
-
-            public void transfer()
-            {
-                Console.WriteLine(" Balance \t"+Balance + "Account no. \t "+Acc_no +" Account Holder Name:   "+Acc_name);               
-            }
-            public void display(int d)
-            {
-                Console.WriteLine("Bank Account Number: " + Acc_no);
-                Console.WriteLine("Bank Account Holder Name: " + Acc_name);
-                Console.WriteLine("Bank Account Balance: " + Balance);
-            }
-            public void withdrawl(int ch)
-            {
-                Balance = Balance + ch;
-            }
-            
-           
-        }
-        static void Main(string[] args)
-        {
-            Bank[] bank = new Bank[2];
-            bank[0]= new Bank();
-            bank[1]= new Bank();
             
 
-            for (int i = 0; i < bank.Length; i++)
-            {
-                Console.WriteLine("Enter Acc_no ");
-                int num = Convert.ToInt32(Console.ReadLine());                
-                Console.WriteLine("Enter Name ");
-                string name = (Console.ReadLine());                
-                Console.WriteLine("Enter Initial Balance ");
-                int bal = Convert.ToInt32(Console.ReadLine());
+            customer1.AddAccount(account1);
+            customer1.AddAccount(account2);
 
-                bank[i].get_data(num, name, bal);
-            }
-            for(int i = 0;i < bank.Length;i++)
-            {
-                bank[i].transfer();
-            }
-            Console.WriteLine("Press 1- for 1st account to second \n 2- for 2nd account to first");
-            int ch = 0;
-            int choice = Convert.ToInt32(Console.ReadLine());
-            if (choice == 1)
-            {
-                Console.WriteLine("Enter Ammount to be transfered: ");
-                ch= Convert.ToInt32(Console.ReadLine());
-                int ll=bank[0].deposit(ch);
-                Console.WriteLine("Remaining Balance: " + ll);
-                bank[1].withdrawl(ch);
-                bank[0].transfer();
-            }
-            else if(choice==2)
-            {
-                Console.WriteLine("Enter Ammount to be transfered: ");
-                ch=Convert.ToInt32(Console.ReadLine());
-                bank[1].deposit(ch);
-                bank[0].withdrawl(ch);
-                bank[1].transfer();
-            }
+            Customer customer2 = new Customer("C2");
+            Account account3 = new Account("A3", 1500);
 
-            Console.ReadKey();
+            customer2.AddAccount(account3);
 
+            // Add customers to the bank
+            bank.AddCustomer(customer1);
+            bank.AddCustomer(customer2);
+
+            // Display account details for a customer
+            bank.DisplayCustomerAccountDetails("C1");
+            bank.DisplayCustomerAccountDetails("C2");
+
+            // Perform transactions
+            account1.Deposit(200);
+            account2.Withdraw(300);
+            account3.Withdraw(200);
+
+            // Display updated account details
+            bank.DisplayCustomerAccountDetails("C1");
+            bank.DisplayCustomerAccountDetails("C2");
+            Console.ReadLine();
         }
+
     }
 }
+
+
