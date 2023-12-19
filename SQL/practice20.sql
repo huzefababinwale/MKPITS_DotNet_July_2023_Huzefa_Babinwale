@@ -31,3 +31,8 @@ insert into orders values (7005, 2400.6, '2012-07-27',3007,5001)
 insert into orders values (7008, 5760.0, '2012-09-10',3002,5001)
 select * from orders
 select ord_no from orders order by ord_no desc
+select ord_date from orders order by ord_date desc
+select ord_date from orders order by ord_date asc
+
+--Q4
+select distinct salesman_id from orders  salesman_id asc
