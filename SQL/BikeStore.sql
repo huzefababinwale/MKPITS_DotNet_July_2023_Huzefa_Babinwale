@@ -53,6 +53,14 @@ select*from products
 
 
 
+create table stocks (
+	store_id int foreign key(store_id) references stores(store_id),
+	product_id int foreign key(product_id ) references products(product_id),
+	quantity int)
+
+	sp_help
+
+
 
 
 
