@@ -85,8 +85,86 @@ begin
 
 close cursor_cust;
 deallocate cursor_cust;
-end
+
 ------------------------------------------------------------------------------------------------------------------------
+select * from customer
+insert into customer values(3,'Huzefa',42),(4,'Jyros',23)
+
+declare
+@custname varchar(max),
+@custage decimal;
+
+declare cursor_cust cursor
+for select custname, custage
+from customer where custid>3
+
+open cursor_cust 
+fetch next from cursor_cust into @custname, @custage
+
+print @custname+ cast(@custage as varchar);
+while @@fetch_status =0
+begin 
+	fetch next from cursor_cust into @custname, @custage
+
+	--print @custname+cast(@custage as varchar)
+	end;
+
+close cursor_cust;
+deallocate cursor_cust;
+-------------------------------------------------------------------------------------------------------------
+
+create table product(
+product_id int primary key,
+product_name varchar (20))
+alter table product add price int 
+
+insert into product values(1,'mouse',100),(2,'keyboard',200),(3,'pen drive',300),(4,'hard disk',400),(5,'mouse',500)
+select * from product
+
+declare 
+@product_id decimal ,
+@product_name varchar(20),
+@price decimal
+
+declare curs_prod cursor
+for select product_id, product_name, price from product where product_name='mouse'
+open curs_prod
+
+fetch next from curs_prod into @product_id , @product_name, @price
+	print cast(@product_id as varchar)+ @product_name+cast(@price as varchar)
+	while @@FETCH_STATUS=0
+	begin
+	fetch next from curs_prod into @product_id, @product_name, @price
+	print cast(@product_id as varchar)+ @product_name+cast(@price as varchar)
+	end
+	
+	close curs_prod
+	deallocate curs_prod
+--------------------------------------------------------------------------------------------------------------
+
+declare 
+@product_id decimal ,
+@product_name varchar(20),
+@price decimal
+
+declare curs_prod cursor
+for select product_id, product_name, price from product where price>=300
+open curs_prod
+
+fetch next from curs_prod into @product_id , @product_name, @price
+	print cast(@product_id as varchar)+ @product_name+cast(@price as varchar)
+	while @@FETCH_STATUS=0
+	begin
+	fetch next from curs_prod into @product_id, @product_name, @price
+	print cast(@product_id as varchar)+ @product_name+cast(@price as varchar)
+	end
+	
+	close curs_prod
+	deallocate curs_prod
+
+
+
+
 
 
 
