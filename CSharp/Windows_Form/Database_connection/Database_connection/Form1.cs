@@ -9,6 +9,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
+public static class DatabaseConnection
+{
+    private static string connectionString = "your string";
+    public static SqlConnection GetConnection()
+    {
+        SqlConnection connection= new SqlConnection(connectionString);
+        try
+        {
+            connection.Open();
+            return connection;
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show(ex.ToString());
+            return null;
+        }
+    }
+}
 namespace Database_connection
 {
     public partial class Form1 : Form
@@ -32,6 +51,10 @@ namespace Database_connection
             {
                 MessageBox.Show(ee.Message);
             }
+            finally
+            {
+                conn.Close();
+            }
 
         }
 
@@ -48,6 +71,10 @@ namespace Database_connection
             catch(Exception ee)
             {
                 MessageBox.Show(ee.Message);
+            }
+            finally
+            {
+                sqlmkpit.Close();
             }
         }
     }
