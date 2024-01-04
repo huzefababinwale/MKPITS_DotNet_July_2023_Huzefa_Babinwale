@@ -1,0 +1,10 @@
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\obj\Debug\loginform2para.csproj.AssemblyReference.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\obj\Debug\loginform2para.Form1.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\obj\Debug\loginform2para.Properties.Resources.resources
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\obj\Debug\loginform2para.csproj.GenerateResource.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\obj\Debug\loginform2para.csproj.CoreCompileInputs.cache
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\bin\Debug\loginform2para.exe.config
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\bin\Debug\loginform2para.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\bin\Debug\loginform2para.pdb
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\obj\Debug\loginform2para.exe
+Z:\MKPITS\MKPITS_DotNet_July_2023_Huzefa_Babinwale\CSharp\Windows_Form\loginform2para\loginform2para\obj\Debug\loginform2para.pdb

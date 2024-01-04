@@ -152,6 +152,7 @@ namespace Database_Connect2
                 {
                     flag = 1;
                     textBox2.Text = dr["password"].ToString();
+                    label3.Text="Password for these username is "+dr["password"].ToString();
                 }
                 dr.Close();
                 con.Close();
