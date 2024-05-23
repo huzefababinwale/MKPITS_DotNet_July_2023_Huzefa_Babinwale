@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>We are Under Maintenance... </title>
+   
+    <title>My Portfolio
+        <div>
+            We are Under Maintenance...
+        </div>
+      
+    </title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+    <style>
+    .oval-img {
+            padding:1.5%;
+            padding-top: 20%;
+            border-radius: 40%; /* This will make the image circular */
+            width: 200px; /* Adjust the width and height as needed */
+            height: 300px; /* Adjust the width and height as needed */
+            object-fit: cover; /* Ensures the image fills the entire space */
+            background-repeat: no-repeat;
+        }
+
+    .maintenance{
+          padding: 20px;
+            border: 2px solid #ccc;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    .loader {
+            border: 4px solid #f3f3f3; /* Light grey */
+            border-top: 4px solid #3498db; /* Blue */
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 2s linear infinite;
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+</style>
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#">My Portfolio</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#projects">Projects</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <br>
+    <!-- About Section -->
+    <section id="about" class="py-5">
+        <div class="container" style="text-align: justify;">
+            <h2 class="text-center">About Me</h2>
+            <p class="text-center" style="text-align: justify;"><div  class=" maintenance" style="text-align: justify;"><p>We are Under Maintenance... <span class="loader"></span></p><p> Please Wait for a while</p></div>
+                Welcome to PH Techno - Empowering Small Businesses with Customized Online Solutions
+                <br></p>
+                <p>
+                At PH Techno, we specialize in providing tailored website solutions to small businesses, helping them establish a strong online presence and reach their target audience effectively. With our expertise in artificial intelligence (AI) and machine learning (ML), we go beyond traditional web development to offer innovative and personalized solutions that drive growth and success.</p>
+        </div>
+    </section>
+
+    
+
+
+    <!-- Background Section -->
+    <div class="bg-cover bg-fixed bg-center bg-no-repeat h-screen" style="background-image: url('images/2.jpg');">
+        <div class=" col-md-4" style="text-align: center;">
+                <img class="oval-img" src="images/MYPIC1.jpg" alt="Profile Picture">
+            </div>
+            <div class="col-md-12" style="text-align: center;">
+                <h1 class="text-5xl font-black mb-3 text-white">AI-Enthusiast</h1>
+            </div>
+    </div>
+
+
+
+
+    <!-- Projects Section -->
+    <section id="projects" class="py-5 bg-light">
+        <div class="container">
+            <h2 class="text-center">Projects</h2>
+            <hr>
+            <div class="row">
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/cropre1.png" class="card-img-top" alt="Project 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Soil Crop Recommendation System</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">
+                                In this project, we built a crop recommendation system using machine learning algorithms and integrated it into a web application using the Flask framework. The system takes in input data such as soil type, rainfall, temperature, and humidity, and recommends the best crop that can be grown in that particular region based on the machine learning model trained on historical data.
+</p>
+                            <a href="cropre.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+                
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/GoMechanic1.png" class="card-img-top" alt="Project 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Go Mechanic - Connecting Mechanics and Customers</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">Go Mechanic is an innovative platform designed to bridge the gap between mechanics and customers, facilitating efficient communication and service delivery within the automotive industry. With Go Mechanic, mechanics can showcase their products and services while customers can easily find and connect with reliable professionals in their vicinity.</p>
+                            <a href="GoMechanic.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+                
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/CounterFeit3.png" class="card-img-top" alt="Project 1">
+                        <div class="card-body">
+                            <h5 class="card-title">SecureDrug - Blockchain-Based Counterfeit Drug Detection System</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">
+                            SecureDrug is an innovative solution leveraging blockchain technology to combat the proliferation of counterfeit drugs in the pharmaceutical industry. By harnessing the power of blockchain, along with cutting-edge tools like MetaMask, Ganache, and Web3.0, SecureDrug provides a robust platform for verifying the authenticity of pharmaceutical products, ensuring patient safety and trust.</p>
+                            <a href="Counterfeit.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+            </div>
+
+
+            <div class="row">
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <video width="350" height="160" controls>
+                            <source src="images/Finger.mp4" type="video/mp4">
+                            Your browser does not support the video tag.
+                        </video>
+                        <div class="card-body">
+                            <h5 class="card-title">Finger Detection - RaspberryPi + ML</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">
+                            Finger detection using the media pipeline in OpenCV involves a series of image processing techniques to identify and track fingers in real-time video streams or static images. OpenCV offers various functions for tasks like contour detection, thresholding, and convex hull computation, which are commonly used in finger detection algorithms. By applying these techniques sequentially, it's possible to isolate the hand region, detect fingers, and track their movements. These methods can be further enhanced with machine learning approaches for robust finger detection in different environments and under varying conditions. Overall, leveraging OpenCV's media pipeline empowers developers to create efficient and accurate finger detection systems for applications ranging from gesture recognition to human-computer interaction.</p>
+                            <a href="FingerDetection.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+                
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/MedicineLabTest1.png" class="card-img-top" alt="Project 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Medicine Recommendation System using ML</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">The medicine recommendation system is a Python-based application that utilizes machine learning to predict diseases based on user-entered symptoms. Users interact with a user-friendly HTML interface to input their symptoms, which are then processed by a Flask backend. The backend uses a pre-trained machine learning model (svc.pkl) to predict the most likely disease. Upon predicting the disease, the system retrieves relevant information such as descriptions, precautions, medications, diets, and workouts associated with that disease. The Flask backend then renders this information on the HTML page, providing users with tailored recommendations and insights based on their symptoms.</p>
+                            <a href="Medicine_Recommendation.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+                
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/parkinson_disease1.jpg" class="card-img-top" alt="Project 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Parkinson Disease Detection</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">
+                                Parkinson's disease is a neurological disorder that affects millions of people worldwide. Early detection and intervention are crucial for managing the symptoms and improving the quality of life for patients. In this project, we leverage machine learning techniques, specifically using an XGBoost model, to predict Parkinson's disease based on input CSV values related to specific features.
+                            </p>
+                            <a href="Parkinson_Disease.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+            </div>
+
+            <div class="row">
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/Ambulance_Detection2.jpg" alt="Ambulance Images Loading...">
+                        <div class="card-body">
+                            <h5 class="card-title">Emergency Vehicle Detection</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">
+                                In this project, we developed a robust system for detecting ambulances in real-time using YOLOv7, a state-of-the-art object detection framework. With a focus on enhancing emergency response systems, the model achieved an impressive accuracy of 99%. By accurately identifying ambulances, emergency services can be dispatched more efficiently, potentially saving crucial time in life-threatening situations.
+
+                            </p>
+                                <a href="Ambulance_Detection.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+                
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/PlantDetection3.png" class="card-img-top" alt="Project 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Plant Reader</h5>
+                        <p class="card-text" style="font-size:xx-small; text-align:justify">
+                            This project aims to develop an efficient system for automated detection and classification of plant leaves using Convolutional Neural Networks (CNN). By leveraging deep learning techniques, we strive to enhance agricultural processes such as disease identification and plant species classification. The proposed CNN model demonstrates promising results in accurately detecting and categorizing plant leaves, thus aiding in agricultural management and crop health monitoring.
+                        </p>
+                            <a href="PlantDetection.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+                
+                <!-- Project Cards -->
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="card">
+                        <img src="images/Fight1.jpg" class="card-img-top" alt="Project 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Human Voilance Detection</h5>
+                            <p class="card-text" style="font-size:xx-small; text-align:justify">
+                                This project presents a novel approach to detecting human fights in real-time video footage using YOLOv7, an advanced object detection framework. By leveraging deep learning techniques, the proposed system offers a reliable solution for identifying violent altercations in crowded environments. The developed model achieves high accuracy in detecting fight-related activities, thus facilitating early intervention and enhancing public safety measures.
+                            </p>
+                            <a href="HumanFight.html" class="btn btn-primary">View Project</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Add more project cards here -->
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Footer -->
+    <div class="background" >
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4 col-md-6 mb-4">
+            <h3>Contact Us</h3>
+            <p><img src="images/Phone.png" alt="Gmail" class="logo" style="border-radius: 100%;"></p>
+            <p><i class="fas fa-phone"></i> <a href="tel:+919834146770">+91 9834146770   </a>
+                <a href="tel:+919022440562">+91 9022440562</a>
+            </p>
+            <p>
+                    <img src="images/Gmail.png" alt="Gmail" class="logo" style="border-radius: 50%;">
+            </p>
+            <p><i class="fas fa-envelope"></i> <a href="mailto:babinwalehuzefa@gmail.com">babinwalehuzefa@gmail.com  </a>
+                
+            
+            </p>
+            <!-- <p><a href="mailto:priyankakotpalliwar2002@gmail.com">priyankakotpalliwar2002@gmail.com </p> -->
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <h3>Follow Us</h3>
+            <a href="http://www.linkedin.com/in/huzefa-babinwale-44473b210" target="_blank"><img src="images/Linkedin.png" alt="LinkedIn" class="logo"></a>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <h3>PH Techno</h3>
+            <!-- Add your logo image here -->
+            <img src="images/Logo.png" alt="LOGO" class="logo">
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+
+    <!-- Bootstrap JS and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+
+
+<script src="script.css"></script>
+
+
+
+</html>
